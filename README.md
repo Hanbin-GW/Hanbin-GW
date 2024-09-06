@@ -1,8 +1,8 @@
 ## Hi there I am hanbin 👋
 - 🎮 I am a server host in  SCP: Secret Laboratory game
-- My common language is Python, c#, and Java
+- 🔧 My common language is Python, c#, and Java
 - 🇰🇷 I am from Republic of Korea.
-- School: SJA Jeju
+- 📚 School: SJA Jeju international school
 <!--
 **Hanbin-GW/Hanbin-GW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
