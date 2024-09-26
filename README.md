@@ -1,7 +1,6 @@
 ## Hi there I am hanbin 👋
 <a href="https://github.com/Hanbin-GW"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://discord.gg/aYyNucAfqE">![Static Badge](https://img.shields.io/badge/scpfoundation?style=flat&logo=scpfoundation)
-</a>
+<a href="https://discord.gg/aYyNucAfqE"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=discord&logoColor=blue"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanbin-GW%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 - 🎮 I am a server host in  SCP: Secret Laboratory game
