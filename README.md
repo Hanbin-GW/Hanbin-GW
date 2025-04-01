@@ -1,6 +1,8 @@
 ## Hi there I am hanbin 👋
 <a href="https://github.com/Hanbin-GW"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://discord.gg/Ghost-World"><img src="https://img.shields.io/badge/Discord-white?style=flat-square&logo=discord&logoColor=blue"/></a>
+![Static Badge](https://img.shields.io/badge/Instagram-%23f78aff?style=for-the-badge&logo=instagram&color=pink&link=https%3A%2F%2Fwww.instagram.com%2Fhanbin0939%2F)
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
