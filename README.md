@@ -12,7 +12,6 @@
 - 🔧 My common language is Python, c#, and Java
 - 🇰🇷 I am from Republic of Korea.
 - 📚 School: SJA Jeju international school
-- using Editor <img src="https://camo.githubusercontent.com/86421c3a02f04f9ef49e4c5ab704783ab309e0959a82e5e96783f772cacd0e7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52696465722d3030303030303f6c6f676f3d7269646572266c6f676f436f6c6f723d776869746526636f6c6f723d6372696d736f6e">
 <!--
 **Hanbin-GW/Hanbin-GW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
