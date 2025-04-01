@@ -4,8 +4,9 @@
 [![Discord](https://img.shields.io/badge/Discord-038cfc?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ghost-World)
 [![Instagram](https://img.shields.io/badge/Instagram-f78aff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanbin0939/)
 
-### Using Editor
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Static Badge](https://img.shields.io/badge/Iterm-%23000000?style=for-the-badge&logo=iterm2) ![Static Badge](https://img.shields.io/badge/Rider-%23eb3464?style=for-the-badge&logo=rider) ![Static Badge](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&link=https%3A%2F%2Fdiscord.gg%2FGhost-World)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Static Badge](https://img.shields.io/badge/Iterm-%23000000?style=for-the-badge&logo=iterm2) ![Static Badge](https://img.shields.io/badge/Rider-%23eb3464?style=for-the-badge&logo=rider) ![Static Badge](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&link=https%3A%2F%2Fdiscord.gg%2FGhost-World) ![Static Badge](https://img.shields.io/badge/Html-%2332a83c?style=for-the-badge&logo=html5&logoColor=white)
+
 
 
 ### About Me
