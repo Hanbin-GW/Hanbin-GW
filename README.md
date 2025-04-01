@@ -2,7 +2,7 @@
 <a href="https://github.com/Hanbin-GW"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://discord.gg/Ghost-World"><img src="https://img.shields.io/badge/Discord-white?style=flat-square&logo=discord&logoColor=blue"/></a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Travis (.org)](https://img.shields.io/travis/rails/rails)
 
 - 🎮 I am a server host in  SCP: Secret Laboratory game
 - 🔧 My common language is Python, c#, and Java
