@@ -1,4 +1,5 @@
-## Hi there I am hanbin 👋
+![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Hanbin%20GW&textBg=false&animation=fadeIn&fontSize=75)
+
 <!--<a href="https://github.com/Hanbin-GW"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"/></a>-->
 [![SCPSL](https://img.shields.io/badge/SCPSL-c685ff?style=for-the-badge&logo=scpfoundation)](https://scplist.kr/servers/70844)
 [![Discord](https://img.shields.io/badge/Discord-038cfc?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ghost-World)
