@@ -16,6 +16,25 @@
 - 🔧 My common language is Python, c#, and Java
 - 🇰🇷 I am from Republic of Korea.
 - 📚 School: SJA Jeju international school
+
+# 🏆 Achievements
+
+## 🖥️ 2024–2025 USA Computing Olympiad (USACO)
+![USACO](https://img.shields.io/badge/USACO-Gold-yellow.svg)
+
+- 🎯 December 2024 Bronze Division: Perfect score (1000/1000), promoted to Silver Division
+- 🎯 December 2024 Silver Division: Ranked 232, promoted to Gold Division
+- 🎯 April 2025 US Open Silver Division: Score 792/1000 (Top 16%), promoted to Gold Division
+
+## 💻 Programming & Data Competitions
+- 🥈 March 2024: 2nd National Youth IT Competition, Programming (Python) — *Encouragement Award* (Korea IT Promotion Agency)
+- 🥇 August 2024: 6th Educational Public Data Analysis Competition, Data Analytics — *Excellence Award* (Governor of Jeju Province)
+- 🥈 August 2024: 2024 Youth Summer Academic Conference, Public Big Data — *Silver Award* (Korea IT Promotion Agency)
+
+## 🤖 Robotics
+- 🏅 2025: VEX Robotics Competition — *30410X Team Programmer*  
+  Advanced to finals and placed **2nd out of 32 teams** in the regional league (Python & robot control)
+
 <!--
 **Hanbin-GW/Hanbin-GW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
