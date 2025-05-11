@@ -16,7 +16,8 @@
 - 🔧 My common language is Python, c#, and Java
 - 🇰🇷 I am from Republic of Korea.
 - 📚 School: SJA Jeju international school
-
+I’m a high school developer with the ability to define problems, design system architecture, and manage projects all the way through to deployment.
+I build open-source servers, automation APIs, and interactive web tools that are ready for real-world use.
 # 🏆 Achievements
 
 ## 🖥️ 2024–2025 USA Computing Olympiad (USACO)
