@@ -43,7 +43,16 @@ I build open-source servers, automation APIs, and interactive web tools that are
 
 - 🏅 2025: VEX Robotics — 
 - 🏅 2025: VEX Robotics Competition — *30410X Team Programmer*  
-  Advanced to finals and placed **2nd out of 32 teams** in the regional league (Python & robot control)
+  Advanced to finals and placed **2nd out of 49 teams** in the regional league (Python & robot control)
+
+-🏅 2024: Web developer and programmer for the robotics club.
+-🏅 2025: Selected as the captain of the robotics team, taking leadership in project coordination and technical development
+-🤖 Role: Developed robot control code and designed autonomous algorithms.
+
+-🤖Contribution without title: Independently built and maintained the team website, storing visualized development progress and competition data.
+
+-🤖 2024–25 VEX Robotics Competition: Participated as a member of the school’s representative team at regional tournaments.
+Led robot control algorithm development, including sensor data processing and autonomous path programming.
 
 <!--
 **Hanbin-GW/Hanbin-GW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
