@@ -25,17 +25,22 @@ I build open-source servers, automation APIs, and interactive web tools that are
 # 🏆 Achievements
 ## 🖥️ 2024–2025 USA Computing Olympiad (USACO)
 ![USACO](https://img.shields.io/badge/USACO-Gold-yellow.svg)
-- 🎯 June 2025 : The Computer Science Excellent Award by the Head of School at SJA
-- 🎯 Feb 2025 : VEX Robotics Competition – X Team programmer, qualified for finals and placed 2nd out of 49 teams (Python & robot control)
-- 🎯 December 2024 Bronze Division: Perfect score (1000/1000), promoted to Silver Division
-- 🎯 December 2024 Silver Division: Ranked 232, promoted to Gold Division
+
 - 🎯 April 2025 US Open Silver Division: Score 792/1000 (Top 16%), promoted to Gold Division
+- 🎯 December 2024 Silver Division: Ranked 232, promoted to Gold Division
+- 🎯 December 2024 Bronze Division: Perfect score (1000/1000), promoted to Silver Division
+
 
 ## 💻 Programming & Data Competitions
+- 🎯 June 2025 : The Computer Science Excellent Award by the Head of School at SJA - The Computer Science Excellence Award – The only award personally presented by the Head of School at SJA,
+- recognizing my outstanding achievement and leadership in computer science among more than 1,000 students
+- <img width="385" height="286" alt="image" src="https://github.com/user-attachments/assets/a2e76169-3bf4-4409-9e94-2a1568e655da" />
+
 - 🥇 August 2024: 6th Educational Public Data Analysis Competition, Data Analytics — *Excellence Award* (Governor of Jeju Province)
 - 🥈 August 2024: 2024 Youth Summer Academic Conference, Public Big Data — *Silver Award* (Korea IT Promotion Agency)
 - 🥈 March 2024: 2nd National Youth IT Competition, Programming (Python) — *Encouragement Award* (Korea IT Promotion Agency)
 ## 🤖 Robotics
+
 - 🏅 2025: VEX Robotics — 
 - 🏅 2025: VEX Robotics Competition — *30410X Team Programmer*  
   Advanced to finals and placed **2nd out of 32 teams** in the regional league (Python & robot control)
