@@ -15,12 +15,22 @@
 
 
 ### About Me
-- 🎮 I am a server host in  SCP: Secret Laboratory game
+ I am a systems-minded creator who transforms abstract logic into tangible, human-centered technology. From building Ghost World, a multiplayer development platform serving hundreds of users, to developing MAMBAB, an AI-powered care and meal service for seniors, my projects reflect a rare combination of technical precision, empathy, and social purpose.GhostPlugin transcends the boundaries of a simple game plugin;
+it demonstrates API-level design thinking, system integration capability, and mastery of asynchronous programming.
+Summary:
+Technical Level: API Designer / Wrapper Developer (Advanced)
+Core Technologies: Asynchronous Process Control, API Abstraction, Object-Oriented Architecture
+Applicable Fields: Game Server Plugins, API Platforms, System Utilities, Cloud Music Services
+
+This technology evolved into a public-contribution AI Music Recipe System, reaching hacking-grade server control and asynchronous API integration levels.
+Following a Business Model (BM) recommendation under Korea’s SME Innovation Program, the technology was extended to the MAMBAB AI Care Platform, now under patent application (KIPO No. 10-2025-0144927).
+
+/*- 🎮 I am a server host in  SCP: Secret Laboratory game
 - 🔧 My common language is Python, c#, and Java
 - 🇰🇷 I am from Republic of Korea.
 - 📚 School: SJA Jeju international school
 I’m a high school developer with the ability to define problems, design system architecture, and manage projects all the way through to deployment.
-I build open-source servers, automation APIs, and interactive web tools that are ready for real-world use.
+I build open-source servers, automation APIs, and interactive web tools that are ready for real-world use.*/
 
 # 🏆 Achievements
 ## 🖥️ 2024–2025 USA Computing Olympiad (USACO)
