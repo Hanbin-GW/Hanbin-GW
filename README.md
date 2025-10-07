@@ -25,13 +25,13 @@ Applicable Fields: Game Server Plugins, API Platforms, System Utilities, Cloud M
 This technology evolved into a public-contribution AI Music Recipe System, reaching hacking-grade server control and asynchronous API integration levels.
 Following a Business Model (BM) recommendation under Korea’s SME Innovation Program, the technology was extended to the MAMBAB AI Care Platform, now under patent application (KIPO No. 10-2025-0144927).
 
-/*- 🎮 I am a server host in  SCP: Secret Laboratory game
+<!--- 🎮 I am a server host in  SCP: Secret Laboratory game
 - 🔧 My common language is Python, c#, and Java
 - 🇰🇷 I am from Republic of Korea.
 - 📚 School: SJA Jeju international school
 I’m a high school developer with the ability to define problems, design system architecture, and manage projects all the way through to deployment.
 I build open-source servers, automation APIs, and interactive web tools that are ready for real-world use.*/
-
+-->
 # 🏆 Achievements
 ## 🖥️ 2024–2025 USA Computing Olympiad (USACO)
 ![USACO](https://img.shields.io/badge/USACO-Gold-yellow.svg)
