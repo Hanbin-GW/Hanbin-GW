@@ -2,7 +2,7 @@
 
 <!--<a href="https://github.com/Hanbin-GW"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"/></a>-->
 [![SCPSL](https://img.shields.io/badge/SCPSL-c685ff?style=for-the-badge&logo=scpfoundation)](https://scplist.kr/servers/70844)
-[![Discord](https://img.shields.io/badge/Discord-038cfc?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QThzG5bKE3)
+[![Discord](https://img.shields.io/badge/Discord-038cfc?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UV2HhGSz5S)
 [![Instagram](https://img.shields.io/badge/Instagram-f78aff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanbin0939/)
 ![Static Badge](https://img.shields.io/badge/Minecraft-green?style=for-the-badge)
 
