@@ -50,11 +50,11 @@ I build open-source servers, automation APIs, and interactive web tools that are
 - 🥇 August 2024: 6th Educational Public Data Analysis Competition, Data Analytics — *Excellence Award* (Governor of Jeju Province)
 - 🥈 August 2024: 2024 Youth Summer Academic Conference, Public Big Data — *Silver Award* (Korea IT Promotion Agency)
 - 🥈 March 2024: 2nd National Youth IT Competition, Programming (Python) — *Encouragement Award* (Korea IT Promotion Agency)
-## 🤖 Robotics
+## 🤖 VEXPROS Robotics [Captain & Lead Programmer – VEX PROS(C/ C++)]
 
-- 🏅 2025: VEX Robotics — 
+- 🏅 2025~2056: VEX Robotics — Built an autonomous C++ system with VEXPROS and LemLib, integrating IMU,GPS, and vision sensors to reduce driving errors and improve performance by40%
 - 🏅 2025: VEX Robotics Competition — *30410X Team Programmer*  
-  Advanced to finals and placed **2nd out of 49 teams** in the regional league (Python & robot control)
+  Advanced to finals and placed **2nd 5out of 49 teams** in the regional league (Python & robot control)
 
 -🏅 2024: Web developer and programmer for the robotics club.
 
